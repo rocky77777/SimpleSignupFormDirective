@@ -1,0 +1,90 @@
+.mainPage {
+	width: 90%;
+	margin: auto;
+}
+
+.mainPage h1 {
+	font-size: 48pt;
+	margin-left: 50px;
+}
+
+/*---------------------------
+mainBox
+---------------------------*/
+
+.mainBox {
+	border: solid black 5px;
+	width: 900px;
+	height: 340px;
+	margin: auto;
+}
+
+/*.mainBox div {
+	display: inline-block;
+}*/
+
+
+.left {
+	width: 40%;
+	height: 340px;
+	float: left;
+}
+
+.right {
+	width: 59%;
+	height: 340px;
+	float: right;
+}
+
+/*-------------------------------
+logo
+-------------------------------*/
+
+.brand-logo {
+	width: 300px;
+	height: 300px;
+	display: block;
+	margin: auto;
+	padding-top: 15px;
+}
+
+/*-------------------------------
+form
+-------------------------------*/
+
+input {
+	height: 30px;
+	font-size: 14pt;
+}
+
+.firstName {
+	margin-top: 70px;
+	margin-left: 10px;
+}
+
+.lastName {
+	margin: 20px;
+}
+
+.email {
+	width: 470px;
+	margin: 10px;
+}
+
+.submitButton {
+	width: 470px;
+	margin: 12px;
+	margin-top: 40px;
+}
+
+/*------------------------
+footer
+------------------------*/
+
+.footer {
+	border: solid black 5px;
+	width: 900px;
+	height: 100px;
+	margin: auto;
+	margin-top: 30px;
+}
